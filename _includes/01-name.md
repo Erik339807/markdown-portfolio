@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Erik Parmlind 
+## Testing out the functionality inherent in MarkDown. 
